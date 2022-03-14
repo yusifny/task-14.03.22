@@ -1,0 +1,13 @@
+/Users/ilkinibrahimov/Desktop/Visual Studio/Class_array_stringbuilder/Class_array_stringbuilder/bin/Debug/netcoreapp3.1/Class_array_stringbuilder.deps.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/Class_array_stringbuilder/Class_array_stringbuilder/bin/Debug/netcoreapp3.1/Class_array_stringbuilder.runtimeconfig.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/Class_array_stringbuilder/Class_array_stringbuilder/bin/Debug/netcoreapp3.1/Class_array_stringbuilder.runtimeconfig.dev.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/Class_array_stringbuilder/Class_array_stringbuilder/bin/Debug/netcoreapp3.1/Class_array_stringbuilder.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/Class_array_stringbuilder/Class_array_stringbuilder/bin/Debug/netcoreapp3.1/Class_array_stringbuilder.pdb
+/Users/ilkinibrahimov/Desktop/Visual Studio/Class_array_stringbuilder/Class_array_stringbuilder/obj/Debug/netcoreapp3.1/Class_array_stringbuilder.csproj.AssemblyReference.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/Class_array_stringbuilder/Class_array_stringbuilder/obj/Debug/netcoreapp3.1/Class_array_stringbuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilkinibrahimov/Desktop/Visual Studio/Class_array_stringbuilder/Class_array_stringbuilder/obj/Debug/netcoreapp3.1/Class_array_stringbuilder.AssemblyInfoInputs.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/Class_array_stringbuilder/Class_array_stringbuilder/obj/Debug/netcoreapp3.1/Class_array_stringbuilder.AssemblyInfo.cs
+/Users/ilkinibrahimov/Desktop/Visual Studio/Class_array_stringbuilder/Class_array_stringbuilder/obj/Debug/netcoreapp3.1/Class_array_stringbuilder.csproj.CoreCompileInputs.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/Class_array_stringbuilder/Class_array_stringbuilder/obj/Debug/netcoreapp3.1/Class_array_stringbuilder.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/Class_array_stringbuilder/Class_array_stringbuilder/obj/Debug/netcoreapp3.1/Class_array_stringbuilder.pdb
+/Users/ilkinibrahimov/Desktop/Visual Studio/Class_array_stringbuilder/Class_array_stringbuilder/obj/Debug/netcoreapp3.1/Class_array_stringbuilder.genruntimeconfig.cache
